@@ -1,1 +1,1 @@
-# Simple-Candle-Strategy
+# Simple Candle Strategy
